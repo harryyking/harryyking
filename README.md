@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harryyking
-- 👀 I’m interested in front end programming 
+- 👋 Hi,
+- 👀 Front End Wizard 
 - 🌱 I’m currently learning html css and javascript
-- 💞️ I observed a problem in a hospital as an intern i am hoping we collaborate to solve this problem. Always ready to collaborate to solve a problem
+- 💞️ I cannot go a day without an amazing idea 
 - 📫 Reach me on telegram https://t.me/har_ryyyy 
 
 <!---
