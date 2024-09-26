@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 Front End Wizard 
-- 🌱 I’m currently learning html css and javascript
+- 🌱 Master of NextJs. Building Full Stack Applications
 - 💞️ I cannot go a day without an amazing idea 
 - 📫 Reach me on telegram https://t.me/har_ryyyy 
 
